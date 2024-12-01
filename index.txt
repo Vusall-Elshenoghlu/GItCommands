@@ -1,0 +1,18 @@
+File sending to github
+git init---Starting git
+
+git add .----all the files are added to repo
+
+git commit -m "..." ---- next step
+
+git branch -M main ---- choosing git branch,it depends on your choosing
+
+git remote add origin https......---- git remote adding
+
+git push -u main(branch name)
+------------------------------------------------
+git branch ---- checking how many branch in your repo
+
+git branch newBranch ----adding new branch
+
+git checkout newBranch----changing your branch
